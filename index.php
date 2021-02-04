@@ -6,7 +6,7 @@
   
 
 <div style="display:flex">
-	<div style="width:200px;height:500px;background:yellow;padding:50px;gitmargin:10px">
+	<div style="width:200px;height:400px;background:yellow;padding:50px;gitmargin:10px">
    	Um teste em um quadrado
     <br>
     <img src="b1git.png" style="width: 200px"> 
