@@ -8,6 +8,6 @@
 <h10>Tentar sempre, desistir as vezes!!!<h10>
 <h7>QUERO DELETAR TUDO </h7>
 <h7>teste xxxx </h7>  
-<div style="width:200px;height:200px;backgroud:yellow">
+<div style="width:200px;height:200px;background:yellow">
    Um teste em um quadrado
 </div>
