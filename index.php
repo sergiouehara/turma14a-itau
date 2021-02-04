@@ -6,7 +6,7 @@
   
 
 <div style="display:flex">
-	<div style="width:200px;height:200px;background:yellow;padding:50px,margin:10px">
+	<div style="width:200px;height:200px;background:yellow;padding:50px;margin:10px">
    	Um teste em um quadrado 
 	</div>
     
@@ -14,3 +14,4 @@
    	Um teste em um quadrado 
 	</div>
 </div>
+git
